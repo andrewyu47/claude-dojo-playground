@@ -1,0 +1,17 @@
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Claude Code local state (keep CLAUDE.md, ignore local session/settings)
+.claude/
+
+# Common build/output junk students might generate
+node_modules/
+__pycache__/
+*.log
+.env
+.env.*

@@ -1,0 +1,5 @@
+# One GitHub username per line. Copy this to usernames.txt and fill it in.
+# Lines starting with # are ignored. A leading @ is fine.
+octocat
+@priya-dev
+alex2026

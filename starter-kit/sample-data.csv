@@ -1,0 +1,31 @@
+applicant_id,role,channel,applied_date,response_days,got_interview,offer,posted_salary
+A001,Marketing Manager,Referral,2026-04-02,3,yes,yes,98000
+A002,Marketing Manager,LinkedIn,2026-04-03,21,no,no,95000
+A003,Product Analyst,Referral,2026-04-04,2,yes,no,110000
+A004,Product Analyst,Job Board,2026-04-05,,no,no,105000
+A005,Content Strategist,Company Site,2026-04-06,14,yes,no,82000
+A006,Content Strategist,LinkedIn,2026-04-07,19,no,no,80000
+A007,Sales Development,Referral,2026-04-08,1,yes,yes,72000
+A008,Sales Development,Job Board,2026-04-09,,no,no,70000
+A009,Data Analyst,Referral,2026-04-10,4,yes,yes,115000
+A010,Data Analyst,LinkedIn,2026-04-11,17,yes,no,118000
+A011,Operations Lead,Company Site,2026-04-12,9,yes,no,125000
+A012,Operations Lead,Job Board,2026-04-13,,no,no,120000
+A013,Marketing Manager,Referral,2026-04-14,3,yes,no,99000
+A014,UX Designer,LinkedIn,2026-04-15,22,no,no,108000
+A015,UX Designer,Referral,2026-04-16,2,yes,yes,112000
+A016,Product Analyst,Company Site,2026-04-17,12,yes,no,107000
+A017,Content Strategist,Job Board,2026-04-18,,no,no,78000
+A018,Data Analyst,Referral,2026-04-19,5,yes,no,116000
+A019,Sales Development,LinkedIn,2026-04-20,16,no,no,71000
+A020,Operations Lead,Referral,2026-04-21,3,yes,yes,128000
+A021,UX Designer,Job Board,2026-04-22,,no,no,109000
+A022,Marketing Manager,Company Site,2026-04-23,11,yes,no,96000
+A023,Data Analyst,Job Board,2026-04-24,,no,no,114000
+A024,Product Analyst,LinkedIn,2026-04-25,18,yes,no,106000
+A025,Content Strategist,Referral,2026-04-26,4,yes,yes,84000
+A026,Sales Development,Company Site,2026-04-27,8,yes,no,73000
+A027,Operations Lead,LinkedIn,2026-04-28,20,no,no,122000
+A028,UX Designer,Company Site,2026-04-29,10,yes,no,110000
+A029,Marketing Manager,Job Board,2026-04-30,,no,no,94000
+A030,Data Analyst,Company Site,2026-05-01,7,yes,yes,119000
