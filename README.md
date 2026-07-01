@@ -40,4 +40,3 @@ New here? Open **[START-HERE.md](START-HERE.md)** and follow it. The short versi
 | `CLAUDE.md` | Context Claude Code reads automatically so it knows the playground rules. |
 
 Have fun. Make a mess in your own corner.
-
