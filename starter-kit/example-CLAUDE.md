@@ -2,14 +2,14 @@
 
 This is a worked example of a project `CLAUDE.md`, adapted from a real one Andrew uses to tailor his resume. It shows how much a good `CLAUDE.md` can lock in: a fixed workflow, hard rules, and a writing style, so every resume comes out consistent without you re-explaining yourself.
 
-**To use it:** copy this file into your own folder as `CLAUDE.md`, then replace the specifics (projects, links, company names) with your own. It's set up to run against the two files next to it in `starter-kit/`: `resume-example.md` (a master resume) and `job-description-example.md` (a target job). Swap in your real resume and a real posting when you're ready.
+**To use it:** copy this file into your own folder as `CLAUDE.md`, then replace the specifics (projects, links, company names) with your own. It's set up to run against the real worked pair next to it in `starter-kit/`: `Resume_Super.md` (a master resume) and `JD_Salesforce_LeadDevDocWriter.md` (the Salesforce posting it targets). A simpler generic pair, `resume-example.md` and `job-description-example.md`, is there too if you'd rather start small. Swap in your own resume and a real posting when you're ready.
 
 ---
 
 ## When asked to tailor a resume
 
-1. Read the target job description (`starter-kit/job-description-example.md`, or your own).
-2. Read the master resume (`starter-kit/resume-example.md`, or your own).
+1. Read the target job description (`starter-kit/JD_Salesforce_LeadDevDocWriter.md`, or your own).
+2. Read the master resume (`starter-kit/Resume_Super.md`, or your own).
 3. Apply ALL rules below.
 4. Write the result to `Resume_Tailored.md` in this folder.
 5. Render it to `Resume_Tailored.html` using a clean, one-page HTML style.

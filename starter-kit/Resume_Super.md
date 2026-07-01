@@ -1,5 +1,5 @@
 # ANDREW THOMAS YU
-andrewyu47@gmail.com | Seattle, Washington | LinkedIn | [your phone] | Portfolio
+[your email] | Seattle, Washington | LinkedIn | [your phone] | Portfolio
 
 **[HEADLINE - Customize per role]**
 
